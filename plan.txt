@@ -1,0 +1,37 @@
+start=__PROGRAM__
+    starts the __PROGRAM__
+end=__PROGRAM__
+    ends the program and can also be used as '!s!'
+IF
+    the standerd if statment opperator
+END
+    ends your if statment
+++
+    adds to a variable
+--
+    takes from a variable
+int
+    creates a integer variable
+String
+    creates a string variable
+puts
+    prints text to the screen
+import -> PI
+    imports the PI variable
+add.puts & !add.puts
+    adds to a integer and adds to a integer variable
+sub.puts & !sub.puts
+    subtracts to a integer and subtracts to a integer variable
+div.puts & !div.puts
+    divides to a integer and divides to a integer variable
+mul.puts & !mul.puts
+    multiplys to a integer and multiplys to a integer variable
+start=__LOOP__
+    starts a forever loop
+end=__LOOP__
+    ends a forever loop
+auto
+    a fast but not good way to make a variable
+purge
+    kills a variable
+    
